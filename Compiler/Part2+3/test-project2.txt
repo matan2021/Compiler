@@ -1,0 +1,9 @@
+
+
+void main()
+{
+ var int x,b;
+ do{x=b+x;}
+ while (x<b);
+
+}

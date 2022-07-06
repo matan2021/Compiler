@@ -1,0 +1,13 @@
+  int foo(int x,y){
+	if (x>7){
+	    y=3;
+	}
+	else {
+	x=y+x;
+	}
+	return y;
+  }
+void main(){
+ var int x;
+ x=foo(5,4);
+}

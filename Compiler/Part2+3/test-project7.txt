@@ -1,0 +1,15 @@
+void f2(real a1,a2;int a3)
+{
+    var int i;
+    a1=(9.4*a2) + a2;
+    for(i=0;i<3;i=1+i)
+{
+
+    a3=5;
+    a2=3.0;
+}
+    a1=2.0;
+}
+
+void main(){
+}

@@ -1,0 +1,16 @@
+char f3(int a1,a2;char b1,b2)
+{
+  var int x;
+  string b[15];
+  b="sami";
+  if( a1==10 && (b2=='x'))
+     {
+	/*b2=b[0];*/
+     }
+  else { a2=5*a1;
+	 b1='y'; }
+  return 'y';
+}
+
+void main(){
+}

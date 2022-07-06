@@ -1,0 +1,22 @@
+
+char goo(){
+	var int x,y;
+	var bool b;
+	var char a;
+	string arr[-10];
+	x=|arr|;	
+	return a;
+}
+
+int main()
+{
+ var int x;
+ var char v;
+ x=3;
+ do{x=1+x;}
+ while(x<2);
+ v = goo();
+ return 5;
+}
+
+

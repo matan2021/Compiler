@@ -1,0 +1,49 @@
+
+void foo_2(int x,y,z;real f){
+ if (x>y){
+     x=x+f;
+ }
+ else {
+     y=x+y+z; 
+     x=f*2;
+     z=f;
+ }
+ return NULL;
+}
+
+char goo(){
+	var int a,x,y;
+	var bool b;
+	var char a;
+	string arr[-10];
+	x=|arr|;	
+ return 'a';
+}
+
+int* yoo()
+{
+	var char* x;
+	string y[10];
+	var int k,w;
+	var char z;
+	w = 1;
+	k = w + 3;
+	y="foobar";
+	x=&y[5];
+	z=*((7+3));
+	z=*(3+(w+k));
+	z=*((3+k));
+	z=*((5-k));
+
+	y="barfoo";
+}
+
+char main()
+{
+ var int x;
+ x=3;
+ do{x=1+x;}
+ while(x<2);
+ return yoo();
+ 
+}

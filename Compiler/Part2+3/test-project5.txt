@@ -1,0 +1,13 @@
+real f2(real a1,a2;char b)
+{
+  var real* p;
+  while ((a1>15) || (a2<a1))
+	{
+	  p=&a1;
+	  a2=-10+a1;
+	  a1=1+a1;
+	  b='x';	  
+	}
+  return a2; 
+}
+void main(){}

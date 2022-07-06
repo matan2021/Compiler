@@ -1,0 +1,35 @@
+
+void foo(int x,y,z;real f) {
+	var int a1,a2;
+	a1=3;
+	a2=5;	
+
+	x=x+z;
+
+	y=x+y+z;
+	f=f*y;
+	y=z;
+
+
+}
+
+int goo() {
+	var int x,z;
+	var int* y;
+	var char v;
+	string arr[100], b[5];
+	b="hey";
+	v='a';
+	arr = "yuijdi";
+	y=&x;
+	
+	return x;
+}
+
+void main(){
+	var int x,y;
+	string array[40],c[50];
+	c="matani!";
+
+}
+

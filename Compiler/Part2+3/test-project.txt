@@ -1,0 +1,19 @@
+void foo(int x,y,z;real f) {
+	if(x>y) {
+	f=x+f;
+}
+else {
+	y=x+y+z;
+	f=f*2;
+	f=f;
+}
+	
+}
+
+char goo() {
+	return 'a';
+}
+
+void main()
+{
+}

@@ -1,0 +1,18 @@
+int f1(int a1,a2;bool b1,b2)
+{
+  var int* k;
+  if ((a2==-5) && (a1>10))
+     {
+	k=&a1;
+	a1=a2;
+
+     }
+  else
+     {
+	a2=10;
+	b1=true;
+     }
+  return a2;
+}
+
+void main(){}

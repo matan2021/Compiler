@@ -1,0 +1,29 @@
+
+void foo(int x,y,z;real f) {
+	if(x>y) {
+	x=x+f;
+}
+else {
+	y=x+y+z;
+	x=f*2;
+	z=f;
+}
+	
+}
+
+char goo() {
+	var int x,z=2;
+	var int* y;
+	string arr[100], b[5];
+	b="hey";
+	arr = "yuijdi";
+	y=&x;
+	
+	return 'a';
+}
+
+char main (){
+	var int x,y = 3;
+	string array[40],c[50]="matani!";
+	return goo();
+}
